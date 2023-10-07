@@ -5,3 +5,6 @@
 [submodule "elo"]
 	path = elo
 	url = https://github.com/eheinzen/elo
+[submodule "tv"]
+	path = tv
+	url = https://github.com/eheinzen/tv
